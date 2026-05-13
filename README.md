@@ -20,7 +20,7 @@ and weekly assignments while I build up my Python basics.
 - strings and built-in string methods
 - lists, tuples, sets, and dictionaries
 - loops and simple data transformations
-- beginner Python problem solving in notebooks
+- beginner Python problem solving capacity in notebooks
 
 ## Opening The Notebooks
 
