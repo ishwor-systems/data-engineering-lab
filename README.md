@@ -1,7 +1,7 @@
 # Data Engineering Lab
 
 This repo is where I keep my early data engineering practice. Most of the work
-here lives in Jupyter notebooks, with a mix of class notes, short exercises,
+here is done  in Jupyter notebooks, with a mix of class notes, short exercises,
 and weekly assignments while I build up my Python basics.
 
 ## What's In Here
