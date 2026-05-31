@@ -17,7 +17,7 @@ and weekly assignments while I build up my Python basics.
 ## What I'm Practicing
 
 - variables and data types
-- strings and built-in string methods
+- strings and built-in string methods.
 - lists, tuples, sets, and dictionaries
 - loops and simple data transformations
 - beginner Python problem solving capacity in notebooks
