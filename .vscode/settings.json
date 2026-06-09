@@ -1,4 +1,8 @@
 ﻿{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "window.autoDetectColorScheme": false,
+  "workbench.iconTheme": "vs-seti",
   "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
   "python.terminal.activateEnvironment": true,
   "jupyter.jupyterServerType": "local",
